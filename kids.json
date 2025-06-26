@@ -1,7 +1,7 @@
 [
   {
     "ID": 1,
-    "Title": "Teddy Bear",
+    "Name": "Teddy Bear",
     "Price": 300,
     "Description": "Soft plush teddy",
     "ImageURL": "https://i.imgur.com/od0q9qq.png",
@@ -11,7 +11,7 @@
   },
   {
     "ID": 2,
-    "Title": "Toy Car",
+    "Name": "Toy Car",
     "Price": 500,
     "Description": "Fast red toy car",
     "ImageURL": "https://i.imgur.com/9QpKELP.png",
@@ -21,7 +21,7 @@
   },
   {
     "ID": 3,
-    "Title": "Toy Car",
+    "Name": "Toy Car",
     "Price": 500,
     "Description": "Fast red toy car",
     "ImageURL": "https://i.imgur.com/9QpKELP.png",
@@ -31,7 +31,7 @@
   },
   {
     "ID": 4,
-    "Title": "Toy Car",
+    "Name": "Toy Car",
     "Price": 500,
     "Description": "Fast red toy car",
     "ImageURL": "https://i.imgur.com/9QpKELP.png",
@@ -41,7 +41,7 @@
   },
   {
     "ID": 4,
-    "Title": "Toy Car",
+    "Name": "Toy Car",
     "Price": 500,
     "Description": "Fast red toy car",
     "ImageURL": "https://i.imgur.com/9QpKELP.png",
@@ -51,7 +51,7 @@
   },
   {
     "ID": 6,
-    "Title": "Toy Car",
+    "Name": "Toy Car",
     "Price": 500,
     "Description": "Fast red toy car",
     "ImageURL": "https://i.imgur.com/9QpKELP.png",
