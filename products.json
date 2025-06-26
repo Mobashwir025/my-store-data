@@ -1,1 +1,52 @@
-{}
+[
+  {
+    "ID": 1,
+    "Title": "Teddy Bear",
+    "Price": 300,
+    "Description": "Soft plush teddy",
+    "ImageURL": "https://i.imgur.com/od0q9qq.png",
+    "Stock": 10,
+    "IsActive": true,
+    "done": ""
+  },
+  {
+    "ID": 2,
+    "Title": "Toy Car",
+    "Price": 500,
+    "Description": "Fast red toy car",
+    "ImageURL": "https://i.imgur.com/9QpKELP.png",
+    "Stock": 10,
+    "IsActive": true,
+    "done": ""
+  },
+  {
+    "ID": 3,
+    "Title": "Toy Car",
+    "Price": 500,
+    "Description": "Fast red toy car",
+    "ImageURL": "https://i.imgur.com/9QpKELP.png",
+    "Stock": 10,
+    "IsActive": true,
+    "done": ""
+  },
+  {
+    "ID": 4,
+    "Title": "Toy Car",
+    "Price": 500,
+    "Description": "Fast red toy car",
+    "ImageURL": "https://i.imgur.com/9QpKELP.png",
+    "Stock": 10,
+    "IsActive": true,
+    "done": ""
+  },
+  {
+    "ID": 4,
+    "Title": "Toy Car",
+    "Price": 500,
+    "Description": "Fast red toy car",
+    "ImageURL": "https://i.imgur.com/9QpKELP.png",
+    "Stock": 10,
+    "IsActive": true,
+    "done": ""
+  }
+]
