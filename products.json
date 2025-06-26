@@ -48,5 +48,15 @@
     "Stock": 10,
     "IsActive": true,
     "done": ""
+  },
+  {
+    "ID": 6,
+    "Title": "Toy Car",
+    "Price": 500,
+    "Description": "Fast red toy car",
+    "ImageURL": "https://i.imgur.com/9QpKELP.png",
+    "Stock": 10,
+    "IsActive": true,
+    "done": ""
   }
 ]
