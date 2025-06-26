@@ -4,7 +4,7 @@
     "Name": "Teddy Bear",
     "Price": 300,
     "Description": "Soft plush teddy",
-    "ImageURL": "https://drive.google.com/file/d/1mX3wWWu1oTYcuTxvHU9eubIJyZakNNJP/view?usp=drive_link",
+    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/teddy.png",
     "Stock": 10,
     "IsActive": true,
     "done": ""
