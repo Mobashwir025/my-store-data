@@ -1,0 +1,47 @@
+[
+  {
+    "ID": 1,
+    "Name": "Vanity Bag",
+    "Price": 500,
+    "Description": "Pure Vanity Bag",
+    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/Vanity%20Bag.png",
+    "Stock": 10,
+    "IsActive": true
+  },
+  {
+    "ID": 1,
+    "Name": "Vanity Bag",
+    "Price": 500,
+    "Description": "Pure Vanity Bag",
+    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/Vanity%20Bag.png",
+    "Stock": 10,
+    "IsActive": true
+  },
+  {
+    "ID": 1,
+    "Name": "Vanity Bag",
+    "Price": 500,
+    "Description": "Pure Vanity Bag",
+    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/Vanity%20Bag.png",
+    "Stock": 10,
+    "IsActive": true
+  },
+  {
+    "ID": 1,
+    "Name": "Vanity Bag",
+    "Price": 500,
+    "Description": "Pure Vanity Bag",
+    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/Vanity%20Bag.png",
+    "Stock": 10,
+    "IsActive": true
+  },
+  {
+    "ID": 1,
+    "Name": "Vanity Bag",
+    "Price": 500,
+    "Description": "Pure Vanity Bag",
+    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/Vanity%20Bag.png",
+    "Stock": 10,
+    "IsActive": true
+  }
+]
