@@ -4,7 +4,7 @@
     "Name": "Teddy Bear",
     "Price": 300,
     "Description": "Soft plush teddy",
-    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2011_18_54%20AM.png",
+    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/teddy.png",
     "Stock": 10,
     "IsActive": true,
     "done": ""
@@ -24,7 +24,7 @@
     "Name": "Toy Car",
     "Price": 500,
     "Description": "Fast red toy car",
-    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/ChatGPT%20Image%20Jun%2026%2C%202025%2C%2005_38_14%20PM.png",
+    "ImageURL": "https://raw.githubusercontent.com/Mobashwir025/my-store-data/refs/heads/main/car.png",
     "Stock": 10,
     "IsActive": true,
     "done": ""
